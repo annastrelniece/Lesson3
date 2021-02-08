@@ -1,4 +1,5 @@
 hello world
+
 something else
 
 Git is awesome
